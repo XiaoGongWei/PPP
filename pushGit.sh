@@ -1,3 +1,3 @@
 git add *
-git commit -m 'add all files.'
+git commit -m '${1}'
 git push origin master 
