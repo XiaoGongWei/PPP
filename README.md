@@ -6,4 +6,4 @@ QQ: 270734392
 iullstration:
 use static ppp(precise point positioning) in navigation.
 
-If you want to donate, Alipay account:270734392@qq.com
+If you want to donate, Alipay account（支付宝）:270734392@qq.com
