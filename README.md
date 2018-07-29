@@ -8,4 +8,3 @@ use static ppp(precise point positioning) in navigation.
 
 ## Summary:
 1. It's easyly transfer my code to your program or soft.
-2. 
