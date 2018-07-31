@@ -44,6 +44,7 @@ The function we wish to join in the later period
 如果你想与我们一起完成这项开源代码QtPPP，请联系我吧。
 帮助我们写一下运行说明或者测试数据也可以，不要害羞～～，期待你的到来。
 后期我们希望加入的功能
+
 1、实时的PPP。
 
 2、非组合PPP。
