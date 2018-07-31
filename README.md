@@ -30,7 +30,7 @@ The function we wish to join in the later period
 ## 注意
 新的代码已经完成还没有上传包括：
 
-1、平方跟滤波（SRIF）和Klamna对比；
+1、平方跟滤波（SRIF）和Kalman对比；
 
 2、以及批量测站事后PPP处理。
 
