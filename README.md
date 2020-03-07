@@ -1,8 +1,8 @@
 # QtPPP
 QQ Group: 258113285
 Email: xiaogongwei10@163.com
-QQ: 270734392;
-QtPPP has changed its name to MG-APP[https://github.com/XiaoGongWei/MG_APP](https://github.com/XiaoGongWei/MG_APP)
+QQ: 270734392;  
+  QtPPP has changed its name to MG-APP: [https://github.com/XiaoGongWei/MG_APP](https://github.com/XiaoGongWei/MG_APP)
 
 
 ## Illustration:
